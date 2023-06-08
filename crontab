@@ -1,0 +1,1 @@
+*/5 * * * * sh /app/update_dns.sh >> /var/log/cron.log 2>&1
