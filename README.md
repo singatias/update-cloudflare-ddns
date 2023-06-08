@@ -1,6 +1,6 @@
 # Cloudflare Dynamic DNS Setup
 
-This guide explains how to set up dynamic DNS with Cloudflare using Python inside a Docker container. Before you start, you need to have a domain name that's set up to use Cloudflare's nameservers.
+This guide explains how to set up dynamic DNS with Cloudflare using Bash inside a Docker container. Before you start, you need to have a domain name that's set up to use Cloudflare's nameservers.
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
