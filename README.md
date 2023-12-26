@@ -34,6 +34,7 @@ RECORD_ID=your_record_id
 EMAIL=your_email
 API_KEY=your_api_token
 SUBDOMAIN=your_subdomain
+AUTH_TYPE=BEARER_TOKEN OR AUTH_KEY
 ```
 ## Obtain Necessary Information
 In order to run the docker container you need to gatter some information and save them in the .env file. 
